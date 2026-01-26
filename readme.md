@@ -4,4 +4,4 @@ Location: jalgoan, India
 
 #About me   
 
-I am a computer science student.I am a software.
+I am a computer science student.I am a Software.
