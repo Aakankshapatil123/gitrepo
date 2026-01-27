@@ -7,4 +7,4 @@ Location: jalgoan, India
 I am a computer science student.I am a Software.
 
 # skills
-- Programing languages - JavaScript,c++,oops,Sql
+- Programing languages - JavaScript, c++, oops, Sql, HTML, CSS
